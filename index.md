@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Stock Price Probability](/sample_page)
-<img src="images/XBI_Price_Movement.jpg?raw=true"/>
+<img src="images/XBI_Price_Movement.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
