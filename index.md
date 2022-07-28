@@ -2,34 +2,16 @@
 
 ---
 
-### Category Name 1 
+### Price Probability Plot 
 
-[Stock Price Probability](/sample_page)
-<img src="images/XBI_Price_Movement.png?raw=true"/>
+[Full Project Link](https://makgord.github.io/Price_Probability_Plot/)
+     
+**Project Description:**
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+This project aims to create a statistical model that allows to visually estimate a potential level of magnitutde and direction of the price movement for a given security over a specified interval of time based on the historical data.
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [[Stock Price Probability](https://github.com/MakGord/Project_Stock_Price_Movement)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="https://github.com/MakGord/Price_Probability_Plot/blob/main/price_probability_plot_XBI_2010-01-01_2022-07-28.png?raw=true"/>
 
 ---
 
 
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
