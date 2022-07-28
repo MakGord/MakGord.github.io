@@ -3,6 +3,7 @@
 ---
 
 ### Price Probability Plot 
+---
 
 [Full Project Link](https://makgord.github.io/Price_Probability_Plot/)
      
