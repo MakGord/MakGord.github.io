@@ -2,7 +2,7 @@
 
 ---
 
-### Project: Price Probability Plot 
+### Price Probability Plot 
 ---
 
 [Full Project Link](https://makgord.github.io/Price_Probability_Plot/)
@@ -21,15 +21,11 @@ rounding_base=1
 <img src="https://github.com/MakGord/Price_Probability_Plot/blob/main/price_probability_plot_XBI_2010-01-01_2022-07-28.png?raw=true"/>
 
 Horizontal axis marks every dollar price-point "XBI" index has touched since 2010. 
-
 Price resolution can be modifed by adjusting the rounding_base variable.
-
-Vertical axis represents the percent of time within the specified period that the index price has spent at each price point (rounded) based on the historical O-H-L-C data. 
-
+Vertical axis represents the percent of time within the specified period that the index price has spent at each price point (rounded) based on the historical data. 
 Normal Distribution is overlayed with red-dotted lines, where mu is last available price and sigma is standard deviation calcualted of log return on weekly basis.
 
-
-Interpreation: 
+**Interpreation:** 
 
 Since 2010 the price of XBI has touched $20 price mark nearly 7-times more than $17 price mark.
 
